@@ -1,6 +1,6 @@
 # Mint Match
 
-A simple Match 2D game with the Linux Mint theme 
+A simple Match 2D game with the Linux Mint theme.
 
 ## Dependencies
 
