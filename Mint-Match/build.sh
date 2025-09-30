@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc main.c -o mygame -lraylib -lm -ldl -lpthread -lGL -lrt -lX11
+gcc main.c -o MintMatch -lraylib -lm -ldl -lpthread -lGL -lrt -lX11
