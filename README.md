@@ -10,7 +10,7 @@ To build and run this project, you need:
 - [raylib](https://www.raylib.com/) (installed and linked on your system)
 
 ## Build & Run Instructions
-Go to the project directory. 
+Go to the project directory.  
 Change permissions to `build.sh`:
 
     chmod 755 build.sh
